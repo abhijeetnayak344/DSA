@@ -158,6 +158,7 @@ Every problem is an opportunity to improve my understanding of:
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,4 +203,8 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
