@@ -28,14 +28,14 @@ My LeetCode solutions are automatically synced to GitHub using **LeetHub**, allo
 
 <div align="center">
 
-### 🔥 290+ Problems Solved
+### 🔥 300+ Problems Solved
 
 ```text
 ██████████████████████████████████████████████████░░░░░░░░░░
-                    290+ Problems
+                    300+ Problems
 ```
 
-🎯 **Next Goal:** 300+ Problems
+🎯 **Next Goal:** 400+ Problems
 
 </div>
 
