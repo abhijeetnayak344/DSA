@@ -158,6 +158,7 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/abhijeetnayak344/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeetnayak344/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -170,6 +171,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0022-generate-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -236,6 +238,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhijeetnayak344/DSA/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -253,6 +256,7 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeetnayak344/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
