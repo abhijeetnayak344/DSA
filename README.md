@@ -161,6 +161,7 @@ Every problem is an opportunity to improve my understanding of:
 | [0022-generate-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhijeetnayak344/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/abhijeetnayak344/DSA/tree/master/1096-brace-expansion-ii) |
@@ -244,6 +245,7 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhijeetnayak344/DSA/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -259,6 +261,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhijeetnayak344/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
