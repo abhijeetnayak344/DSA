@@ -179,6 +179,7 @@ Every problem is an opportunity to improve my understanding of:
 | [0022-generate-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/abhijeetnayak344/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -195,6 +196,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Math
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/abhijeetnayak344/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/abhijeetnayak344/DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -202,6 +204,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
@@ -212,6 +215,7 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeetnayak344/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhijeetnayak344/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -335,4 +339,32 @@ Every problem is an opportunity to improve my understanding of:
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijeetnayak344/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhijeetnayak344/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
