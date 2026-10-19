@@ -10,9 +10,9 @@ class Solution {
                         s[j] = 1;
                         cnt--;
                     }
-                }
+               }
             }
-      }
+        }
       return cnt;  
     }
 }
