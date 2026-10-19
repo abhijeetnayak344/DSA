@@ -196,6 +196,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/abhijeetnayak344/DSA/tree/master/2235-add-two-integers) |
@@ -215,6 +216,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeetnayak344/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -371,4 +373,24 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
