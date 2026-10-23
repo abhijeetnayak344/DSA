@@ -234,6 +234,7 @@ Every problem is an opportunity to improve my understanding of:
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhijeetnayak344/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/abhijeetnayak344/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeetnayak344/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/abhijeetnayak344/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
