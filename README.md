@@ -222,6 +222,7 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
+| [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeetnayak344/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -304,6 +305,7 @@ Every problem is an opportunity to improve my understanding of:
 | [0279-perfect-squares](https://github.com/abhijeetnayak344/DSA/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhijeetnayak344/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -365,6 +367,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -410,4 +413,12 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/abhijeetnayak344/DSA/tree/master/0279-perfect-squares) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
