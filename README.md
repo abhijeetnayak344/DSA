@@ -235,6 +235,7 @@ Every problem is an opportunity to improve my understanding of:
 | [3524-find-x-value-of-array-i](https://github.com/abhijeetnayak344/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/abhijeetnayak344/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhijeetnayak344/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/abhijeetnayak344/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeetnayak344/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/abhijeetnayak344/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -306,6 +307,7 @@ Every problem is an opportunity to improve my understanding of:
 | [0301-remove-invalid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhijeetnayak344/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -369,6 +371,7 @@ Every problem is an opportunity to improve my understanding of:
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -417,8 +420,10 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
