@@ -202,6 +202,7 @@ Every problem is an opportunity to improve my understanding of:
 | ------- |
 | [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/abhijeetnayak344/DSA/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhijeetnayak344/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0650-2-keys-keyboard](https://github.com/abhijeetnayak344/DSA/tree/master/0650-2-keys-keyboard) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -223,6 +224,7 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhijeetnayak344/DSA/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhijeetnayak344/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
