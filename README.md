@@ -210,6 +210,7 @@ Every problem is an opportunity to improve my understanding of:
 | [3524-find-x-value-of-array-i](https://github.com/abhijeetnayak344/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/abhijeetnayak344/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeetnayak344/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhijeetnayak344/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Every problem is an opportunity to improve my understanding of:
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/abhijeetnayak344/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/abhijeetnayak344/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeetnayak344/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhijeetnayak344/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/abhijeetnayak344/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
