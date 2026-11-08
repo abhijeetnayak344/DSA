@@ -232,6 +232,7 @@ Every problem is an opportunity to improve my understanding of:
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhijeetnayak344/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhijeetnayak344/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeetnayak344/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeetnayak344/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -330,6 +331,7 @@ Every problem is an opportunity to improve my understanding of:
 | [0301-remove-invalid-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhijeetnayak344/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeetnayak344/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
@@ -395,6 +397,7 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeetnayak344/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -445,11 +448,17 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeetnayak344/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/abhijeetnayak344/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhijeetnayak344/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeetnayak344/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/abhijeetnayak344/DSA/tree/master/3665-twisted-mirror-path-count) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhijeetnayak344/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
