@@ -183,6 +183,7 @@ Every problem is an opportunity to improve my understanding of:
 | [0279-perfect-squares](https://github.com/abhijeetnayak344/DSA/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/abhijeetnayak344/DSA/tree/master/0650-2-keys-keyboard) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -209,6 +210,7 @@ Every problem is an opportunity to improve my understanding of:
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhijeetnayak344/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhijeetnayak344/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/abhijeetnayak344/DSA/tree/master/0650-2-keys-keyboard) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/abhijeetnayak344/DSA/tree/master/2235-add-two-integers) |
@@ -226,6 +228,7 @@ Every problem is an opportunity to improve my understanding of:
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhijeetnayak344/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeetnayak344/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhijeetnayak344/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -239,6 +242,7 @@ Every problem is an opportunity to improve my understanding of:
 | [1267-count-servers-that-communicate](https://github.com/abhijeetnayak344/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeetnayak344/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetnayak344/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeetnayak344/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/abhijeetnayak344/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeetnayak344/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
