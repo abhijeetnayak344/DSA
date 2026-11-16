@@ -172,6 +172,7 @@ Every problem is an opportunity to improve my understanding of:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeetnayak344/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -315,6 +316,7 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/abhijeetnayak344/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
