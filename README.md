@@ -176,6 +176,7 @@ Every problem is an opportunity to improve my understanding of:
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhijeetnayak344/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhijeetnayak344/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhijeetnayak344/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/abhijeetnayak344/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
