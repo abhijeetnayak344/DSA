@@ -276,6 +276,7 @@ Every problem is an opportunity to improve my understanding of:
 | [3693-climbing-stairs-ii](https://github.com/abhijeetnayak344/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeetnayak344/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhijeetnayak344/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3934-smallest-unique-subarray](https://github.com/abhijeetnayak344/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/abhijeetnayak344/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -291,6 +292,7 @@ Every problem is an opportunity to improve my understanding of:
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhijeetnayak344/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeetnayak344/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhijeetnayak344/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/abhijeetnayak344/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +301,7 @@ Every problem is an opportunity to improve my understanding of:
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhijeetnayak344/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeetnayak344/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhijeetnayak344/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/abhijeetnayak344/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -510,4 +513,16 @@ Every problem is an opportunity to improve my understanding of:
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhijeetnayak344/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/abhijeetnayak344/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/abhijeetnayak344/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/abhijeetnayak344/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
