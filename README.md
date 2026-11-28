@@ -208,6 +208,7 @@ Every problem is an opportunity to improve my understanding of:
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeetnayak344/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeetnayak344/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/abhijeetnayak344/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/abhijeetnayak344/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Every problem is an opportunity to improve my understanding of:
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhijeetnayak344/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3934-smallest-unique-subarray](https://github.com/abhijeetnayak344/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/abhijeetnayak344/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/abhijeetnayak344/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Every problem is an opportunity to improve my understanding of:
 | [2747-count-zero-request-servers](https://github.com/abhijeetnayak344/DSA/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhijeetnayak344/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeetnayak344/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/abhijeetnayak344/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -409,6 +412,7 @@ Every problem is an opportunity to improve my understanding of:
 | [1882-process-tasks-using-servers](https://github.com/abhijeetnayak344/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhijeetnayak344/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeetnayak344/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/abhijeetnayak344/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
